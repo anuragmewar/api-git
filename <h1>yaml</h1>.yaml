@@ -1,7 +1,7 @@
 openapi: 3.0.0
 info:
   version: '1'
-  title: A1
+  title: "><h1>YAML</h1>
 servers:
   - url: 'http://localhost:1337'
 paths:
